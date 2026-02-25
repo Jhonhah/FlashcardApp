@@ -1,0 +1,3 @@
+# requirements.txt for FlashcardApp
+pandas
+# tkinter is part of the standard library for most Python installations, but may need to be installed separately on some systems.
